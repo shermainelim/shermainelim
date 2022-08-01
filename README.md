@@ -29,5 +29,3 @@ Languages and Tools Used
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shermainelim)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shermainelim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
